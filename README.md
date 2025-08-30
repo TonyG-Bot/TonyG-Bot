@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">
+Hola, Soy TonyG-Bot!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-<!--
-**TonyG-Bot/TonyG-Bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 
-Here are some ideas to get you started:
+<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" width="320" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+
+💻 No soy un Desarrollador, soy autodidacta.
+📚 Soy Tecnico Programador Analista o al menos eso dice mi diploma.
+📝 Me interesan mucho la Ciencia y la Tecnologia.
+🔭 Estaba estudiando Ingieneria en Sistemas.
+🍥 Me gusta el anime, mi anime favorito es One Piece.
+🌟 El lenguaje de programacion que se un poco es Lua.
+🎮 Juego World of Warcraft y League of Legends.
+🎵 Me gusta casi todo tipo de musica.
+
+
+
+
+```
