@@ -8,7 +8,7 @@ Hola, Soy TonyG-Bot!
 <img src = "https://readme-typing-svg.herokuapp.com?lines=Autodidacta...;Entusiasta...;Siempre%20aprendiendo%20cosas%20nuevas.&center=true&width=380&height=45"></a>
 </p>
 
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **Sobre mi ...**
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 25px></picture> Sobre mi ...
 
 <img align = "right" src = "https://github.com/TonyG-Bot/TonyG-Bot/blob/main/imgbin_23d8a34fd67a668436624e63a5acea56.png" width = "200"/>
 
