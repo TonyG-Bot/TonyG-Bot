@@ -1,16 +1,14 @@
-<h1 align = "center"> 
-Hola, Soy TonyG-Bot! 
- <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "30">
+<h1 align="center"> 
+Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "30">, Soy TonyG-Bot!
 </h1>
 
-<p align = "center">
-<a href = "https://github.com/DenverCoder1/readme-typing-svg">
-<img src = "https://readme-typing-svg.herokuapp.com?lines=Autodidacta...;Entusiasta...;Siempre%20aprendiendo%20cosas%20nuevas.&center=true&width=380&height=45"></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BEF7&center=true&width=435&lines=Autodidacta...;Entusiasta...;Siempre+aprendiendo+cosas+nuevas.+%3A)" alt="Typing SVG" /></a>
 </p>
 
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 25px></picture> **Acerca de mí ...**
+<picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 25px></picture> *Acerca de mí ...*
 
-<img align = "right" src = "https://github.com/TonyG-Bot/TonyG-Bot/blob/main/imgbin_23d8a34fd67a668436624e63a5acea56.png" width = "200"/>
+<img align="right" src="https://github.com/TonyG-Bot/TonyG-Bot/blob/main/imgbin_23d8a34fd67a668436624e63a5acea56.png" width="200"/>
 
 ```
 
