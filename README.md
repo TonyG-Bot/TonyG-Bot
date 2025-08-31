@@ -1,6 +1,6 @@
 <h1 align="center"> 
-Hola, Soy TonyG! 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+Hola, Soy Tony G-Bot! 
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
 <p align="center">
@@ -8,7 +8,7 @@ Hola, Soy TonyG!
 <img src="https://readme-typing-svg.herokuapp.com?lines=Autodidacta...;Entusiasta...;Siempre%20aprendiendo%20cosas%20nuevas.&center=true&width=380&height=45"></a>
 </p>
 
-<img align="right" src="https://github.com/TonyG-Bot/TonyG-Bot/blob/main/imgbin_23d8a34fd67a668436624e63a5acea56.png" width="320" />
+<img align="right" src="https://github.com/TonyG-Bot/TonyG-Bot/blob/main/imgbin_23d8a34fd67a668436624e63a5acea56.png" width="250" />
 
 ```
 Sobre mi ...
