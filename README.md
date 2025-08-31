@@ -13,6 +13,7 @@ Hola, Soy Tony G-Bot!
 <img align = "right" src = "https://github.com/TonyG-Bot/TonyG-Bot/blob/main/imgbin_23d8a34fd67a668436624e63a5acea56.png" width = "200"/>
 
 ```
+
 💻 No soy un Desarrollador, soy autodidacta.
 👻 Soy Tecnico Programador Analista o al menos eso dice mi diploma.
 🔭 Estaba estudiando Ingieneria en Sistemas.
@@ -21,4 +22,5 @@ Hola, Soy Tony G-Bot!
 🍥 Me gusta el anime, mi anime favorito es One Piece.
 🎮 Juego World of Warcraft y League of Legends.
 🎵 Me gusta casi todo tipo de musica.
+
 ```
