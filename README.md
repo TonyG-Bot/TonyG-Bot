@@ -14,13 +14,13 @@ Hola, Soy TonyG-Bot!
 
 ```
 
-💻 No soy un Desarrollador, soy autodidacta.
-👻 Soy Tecnico Programador Analista o al menos eso dice mi diploma.
-🔭 Estaba estudiando Ingieneria en Sistemas.
-📝 Me interesan mucho la Ciencia y la Tecnologia.
-🌟 El lenguaje de programacion que se un poco es Lua.
-🍥 Me gusta el anime, mi anime favorito es One Piece.
+💻 No soy desarrollador, soy autodidacta.
+👻 Soy Técnico Programador Analista, o al menos eso dice mi diploma.
+🔭 Estudiaba Ingeniería de Sistemas.
+📝 Me interesan mucho la ciencia y la tecnología.
+🌟 El lenguaje de programación que conozco un poco es Lua.
+🍥 Me gusta el anime, mi favorito es One Piece.
 🎮 Juego World of Warcraft y League of Legends.
-🎵 Me gusta casi todo tipo de musica.
+🎵 Me gusta casi todo tipo de música.
 
 ```
